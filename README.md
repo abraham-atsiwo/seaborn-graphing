@@ -1,5 +1,5 @@
 ## Seaborn Data Visualization Dashboard 
-
+A data visualization dashboard based on the seaborn graphing api.
 ### Installation 
 - `Clone the repository or download the code.`
 - `Create and activate a virtual environment.`
